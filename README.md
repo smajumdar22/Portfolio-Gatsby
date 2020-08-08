@@ -8,11 +8,6 @@
 * [PR](https://github.com/smajumdar22/Portfolio-Gatsby/pull/1)
 * [Netlify App](https://shubhamportfoliogatsby.netlify.app)
 
-<h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Portfolio" width="600px" />
-  <br>
-</h2>
-
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
