@@ -39,22 +39,23 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                  ' I am a software engineer who is passionate about technology.I like diversity and that\'s ' +
-                  'what motivates me to work in tech every day.Software has reached every ' +
-                  'corner of the globe and this opens opportunities to work with different cultures' +
-                   'and people.That is the most exciting part of my work which enables me to connect.' +
-                   'Also as a military veteran I understand the importance of team and the impact it has on everything we do.'}
+                    " I am a software engineer who is passionate about technology.I like diversity and that's " +
+                      'what motivates me to work in tech every day.Software has reached every ' +
+                      'corner of the globe and this opens opportunities to work with different cultures' +
+                      'and people.That is the most exciting part of my work which enables me to connect.' +
+                      'Also as a military veteran I understand the importance of team and the impact it has on everything we do.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                  'I got the opportunity to work in various industries such as publishing, ' +
-                  'e-commerce, banking and travel.As a developer I bring to any position my troubleshooting experience , ' +
-                  'agile experience and automation knowledge.As a team player I am ready' +
-                   'to adapt in any changing situation.Also my engineering background and Code Fellows has geared me with ' +
-                   'all the tools necessary to contribute in building and testing software applications.'}
+                    'I got the opportunity to work in various industries such as publishing, ' +
+                      'e-commerce, banking and travel.As a developer I bring to any position my troubleshooting experience , ' +
+                      'agile experience and automation knowledge.As a team player I am ready' +
+                      'to adapt in any changing situation.Also my engineering background and Code Fellows has geared me with ' +
+                      'all the tools necessary to contribute in building and testing software applications.'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Science and technology inspires me to be a better developer everyday.'}
+                  {paragraphThree ||
+                    'Science and technology inspires me to be a better developer everyday.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">

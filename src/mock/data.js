@@ -2,8 +2,8 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Shubham Majumdar | Developer', 
-  lang: 'en', 
+  title: 'Shubham Majumdar | Developer',
+  lang: 'en',
   description: 'Welcome to my website',
 };
 
