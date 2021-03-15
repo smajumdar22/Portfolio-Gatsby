@@ -5,8 +5,9 @@
 ## My developer portfolio
 
 ### Links and Resources
-* [PR](https://github.com/smajumdar22/Portfolio-Gatsby/pull/1)
-* [Netlify App](https://shubhamportfoliogatsby.netlify.app)
+
+- [PR](https://github.com/smajumdar22/Portfolio-Gatsby/pull/1)
+- [Netlify App](https://portfolio-sm.netlify.app)
 
 ## Features
 
@@ -45,7 +46,7 @@ yarn@v1.21.1 or higher
 
 ## Deployment 📦
 
-* gatsby build
+- gatsby build
 
 Once you have done with your setup. You need to put your website online!
 
